@@ -17,7 +17,7 @@ output-file: index.html
 
 ## About
 
-Whatever.
+My interest lies in between statistics and control theory, which typically means system identification and learning to control.
 
 ## Blog posts
 
