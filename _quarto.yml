@@ -16,7 +16,7 @@ website:
   open-graph: true
   repo-actions: [issue]
   navbar:
-    title: "Index"
+    title: "Yichen Zhou"
     background: black
     foreground: white
     search: false
