@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "YZ’s Homepage",
+    "section": "",
+    "text": "Whatever."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "YZ’s Homepage",
+    "section": "",
+    "text": "Whatever."
+  },
+  {
+    "objectID": "index.html#blog-posts",
+    "href": "index.html#blog-posts",
+    "title": "YZ’s Homepage",
+    "section": "Blog posts",
+    "text": "Blog posts\n\nA package for sparse covariance matrix estimation"
+  }
+]

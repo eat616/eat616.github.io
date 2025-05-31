@@ -1,0 +1,13 @@
+/*-- scss:defaults --*/
+
+$body-bg: #fffdf5;
+$body-color: #1c1c1c;
+$link-color: #7a5000;
+$font-family-base: 'Crimson Pro', serif;
+
+/*-- scss:rules --*/
+
+::selection {
+  background: #ffe08a;
+  color: black;
+}
