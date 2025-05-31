@@ -8,6 +8,7 @@ format:
     toc: false
     sidebar: false
     keep-md: true
+    code-fold: false
   commonmark: default
 
 website:

@@ -15,9 +15,21 @@ output-file: index.html
 }
 </style>
 
+
 ## About
 
-My interest lies in between statistics and control theory, which typically means system identification and learning to control.
+
+::: {.columns}
+
+::: {.column width="70%"}
+My interest lies in between statistics and control theory, which typically means system identification and learning to control.  
+:::
+
+::: {.column width="30%"}
+![](imgs/me.png){width=240px}
+:::
+
+:::
 
 ## Blog posts
 
